@@ -1,4 +1,6 @@
-
+<div align="left">
+<img src="/gif/hello.gif" align="center" style="width: 100%" />
+</div>  
 
 ### Most Used Technologies
 <div align="left">  
