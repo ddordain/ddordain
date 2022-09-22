@@ -1,6 +1,8 @@
-<div align="left">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+my+name+is+Dominique;Have+a+nice+DAY+😊)](https://git.io/typing-svg)
+
+<!-- <div align="left">
 <img src="/gif/hello.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
 
 ### Most Used Technologies
 <div align="left">  
