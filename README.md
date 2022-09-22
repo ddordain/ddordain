@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+my+name+is+Dominique;Have+a+nice+DAY+😊)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+my+name+is+Dominique;Have+a+nice+DAY+😊)
 
 <!-- <div align="left">
 <img src="/gif/hello.gif" align="center" style="width: 100%" />
