@@ -3,7 +3,7 @@
 <!-- <div align="left">
 <img src="/gif/hello.gif" align="center" style="width: 100%" />
 </div>   -->
-###My resume :
+### My resume :
 https://ddordain.pythonanywhere.com/
 
 ### Most Used Technologies
