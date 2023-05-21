@@ -14,6 +14,3 @@ https://ddordain.pythonanywhere.com/
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="100" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>  
 </div>
-
-### Statistics
-**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddordain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)**
