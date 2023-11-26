@@ -4,7 +4,7 @@
 <img src="/gif/hello.gif" align="center" style="width: 100%" />
 </div>   -->
 ### My resume :
-https://ddordain.com/
+https://ddordain.com
 
 ### Most Used Technologies
 <div align="left">  
